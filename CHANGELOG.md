@@ -1,5 +1,6 @@
 ## Latest
 
+  * Removed deprecated code and content
   * New recorder features:
     - Added optional parameter to show more details about a recorder file (related to `show_recorder_file_info.py`)
     - Added playback speed (slow/fast motion) for the replayer
