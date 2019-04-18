@@ -6,6 +6,7 @@
     - We can use an absolute path for the recorded files (to choose where to 'write to' or 'read from')
   * Fixed Lidar effectiveness bug in manual_control.py
   * Added C++ client example using LibCarla
+  * Several optimizations to the RPC server, now supports a bigger load of async messages
 
 ## CARLA 0.9.5
 
