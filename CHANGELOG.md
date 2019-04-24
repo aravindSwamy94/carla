@@ -6,6 +6,7 @@
     - We can use an absolute path for the recorded files (to choose where to 'write to' or 'read from')
   * Fixed Lidar effectiveness bug in manual_control.py
   * Added C++ client example using LibCarla
+  * Fixed wrong units in VehiclePhysicsControl's center of mass
 
 ## CARLA 0.9.5
 
